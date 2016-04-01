@@ -564,7 +564,7 @@
         </trigger>
         <trigger>
             <expression>{Template SNMP UPS Richcomm Netmate:upsSmartInputLineVoltage.avg(30s)}&gt;242</expression>
-            <name>Input voltage too low on {HOST.NAME}</name>
+            <name>Input voltage too high on {HOST.NAME}</name>
             <url/>
             <status>0</status>
             <priority>3</priority>
