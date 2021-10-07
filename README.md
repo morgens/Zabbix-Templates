@@ -16,4 +16,4 @@ Zabbix 3.0:
 - **Richcomm Netmate Lite.xml** - шаблон для SNMP карт Richcomm Netmate Lite II. Применяются в ИБП Crown Smart UPS.
 
 Zabbix 5.0:
-- **Cityron SBR01 2ACs.xml** - Даблон для контроллера управления кондиционерами Cityron SBR01 для двух модулей. Основан на официальном SNMP mib.
+- **Cityron SBR01 2ACs.xml** - шаблон для контроллера управления кондиционерами Cityron SBR01 для двух модулей. Основан на официальном SNMP mib.
